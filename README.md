@@ -7,3 +7,7 @@ _______   ____   __| _/\_ |__ |  |   ____   ____   __| _/__.__._______  ____  __
              \/     \/      \/                        \/\/                       \/     \/ 
 
 ```
+
+```
+git clone https://github.com/redbloodyrose/redbloodyrose-i3wm.git
+```
