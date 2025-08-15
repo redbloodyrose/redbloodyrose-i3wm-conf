@@ -26,3 +26,4 @@ wget
 wine 
 wireshark-git
 yay
+kitty(optional)
